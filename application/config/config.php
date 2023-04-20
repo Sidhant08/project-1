@@ -34,7 +34,7 @@ $config['base_url'] = 'https://sidhant08.github.io/project-1/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = '';
+$config['index_page'] = 'index.php';
 
 /*
 |--------------------------------------------------------------------------
